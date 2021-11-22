@@ -1,0 +1,43 @@
+2021-11-22 09:21:47 INFO  Log:23 - App is launched and user is shown with landing screen successfully!!
+2021-11-22 09:21:47 INFO  Log:23 - App is launched and user is shown with landing screen successfully!!
+2021-11-22 09:21:49 INFO  Log:23 - The icons in the landing screen is verified successfully!!
+2021-11-22 09:21:49 INFO  Log:23 - The icons in the landing screen is verified successfully!!
+2021-11-22 09:21:49 INFO  Log:23 - Info : [EW] Waiting for element - Located by By.chained({By.xpath: //*[@text='Animation']})
+2021-11-22 09:21:49 INFO  Log:23 - Pass : [EW] Element found - Located by By.chained({By.xpath: //*[@text='Animation']})
+2021-11-22 09:21:50 INFO  Log:23 - Info : [EW] Waiting for element - Located by By.chained({By.xpath: //*[@text='Content']})
+2021-11-22 09:21:50 INFO  Log:23 - Pass : [EW] Element found - Located by By.chained({By.xpath: //*[@text='Content']})
+2021-11-22 09:21:50 INFO  Log:23 - Pass : [EW] Element clicked - Located by By.chained({By.xpath: //*[@text='Animation']})
+2021-11-22 09:21:50 INFO  Log:23 - User is navigated to Animation screen successfully!!
+2021-11-22 09:21:51 INFO  Log:23 - Pass : [EW] Element clicked - Located by By.chained({By.xpath: //*[@text='Content']})
+2021-11-22 09:21:51 INFO  Log:23 - User is navigated to Content screen successfully!!
+2021-11-22 09:21:51 INFO  Log:23 - User is successfully landed on Animation screen successfully!!
+2021-11-22 09:21:52 INFO  Log:23 - User is successfully landed on Content screen successfully!!
+2021-11-22 09:21:52 INFO  Log:23 - Info : [EW] Waiting for element - Located by By.chained({By.xpath: //*[@text='Default Layout Animations']})
+2021-11-22 09:21:52 INFO  Log:23 - Pass : [EW] Element found - Located by By.chained({By.xpath: //*[@text='Default Layout Animations']})
+2021-11-22 09:21:52 INFO  Log:23 - Info : [EW] Waiting for element - Located by By.chained({By.xpath: //*[@text='Resources']})
+2021-11-22 09:21:52 INFO  Log:23 - Pass : [EW] Element found - Located by By.chained({By.xpath: //*[@text='Resources']})
+2021-11-22 09:21:53 INFO  Log:23 - Pass : [EW] Element clicked - Located by By.chained({By.xpath: //*[@text='Default Layout Animations']})
+2021-11-22 09:21:53 INFO  Log:23 - User is navigated to Default Layout Animations screen successfully!!
+2021-11-22 09:21:53 INFO  Log:23 - User is successfully landed on Default Layout Animations screen successfully!!
+2021-11-22 09:21:53 INFO  Log:23 - Pass : [EW] Element clicked - Located by By.chained({By.xpath: //*[@text='Resources']})
+2021-11-22 09:21:53 INFO  Log:23 - User is navigated to Resources screen successfully!!
+2021-11-22 09:21:54 INFO  Log:23 - Info : [EW] Waiting for element - Located by By.chained({By.xpath: //*[@text='ADD BUTTON']})
+2021-11-22 09:21:54 INFO  Log:23 - Pass : [EW] Element found - Located by By.chained({By.xpath: //*[@text='ADD BUTTON']})
+2021-11-22 09:21:54 INFO  Log:23 - Pass : [EW] Element clicked - Located by By.chained({By.xpath: //*[@text='ADD BUTTON']})
+2021-11-22 09:21:54 INFO  Log:23 - User is successfully landed on Resources screen successfully!!
+2021-11-22 09:21:55 INFO  Log:23 - Info : [EW] Waiting for element - Located by By.chained({By.xpath: //*[@text='ADD BUTTON']})
+2021-11-22 09:21:55 INFO  Log:23 - Info : [EW] Waiting for element - Located by By.chained({By.xpath: //*[@text='Layout Reference']})
+2021-11-22 09:21:55 INFO  Log:23 - Pass : [EW] Element found - Located by By.chained({By.xpath: //*[@text='ADD BUTTON']})
+2021-11-22 09:21:55 INFO  Log:23 - Pass : [EW] Element found - Located by By.chained({By.xpath: //*[@text='Layout Reference']})
+2021-11-22 09:21:55 INFO  Log:23 - Pass : [EW] Element clicked - Located by By.chained({By.xpath: //*[@text='ADD BUTTON']})
+2021-11-22 09:21:56 INFO  Log:23 - Info : [EW] Waiting for element - Located by By.chained({By.xpath: //*[@text='ADD BUTTON']})
+2021-11-22 09:21:56 INFO  Log:23 - Pass : [EW] Element found - Located by By.chained({By.xpath: //*[@text='ADD BUTTON']})
+2021-11-22 09:21:56 INFO  Log:23 - Pass : [EW] Element clicked - Located by By.chained({By.xpath: //*[@text='Layout Reference']})
+2021-11-22 09:21:56 INFO  Log:23 - User is navigated to Layout Reference screen successfully!!
+2021-11-22 09:21:56 INFO  Log:23 - Pass : [EW] Element clicked - Located by By.chained({By.xpath: //*[@text='ADD BUTTON']})
+2021-11-22 09:21:56 INFO  Log:23 - User is successfully landed on Layout Reference screen successfully!!
+2021-11-22 09:21:56 INFO  Log:23 - Info : [EW] Waiting for element - Located by By.chained({By.xpath: //*[@text='ADD BUTTON']})
+2021-11-22 09:21:57 INFO  Log:23 - Pass : [EW] Element found - Located by By.chained({By.xpath: //*[@text='ADD BUTTON']})
+2021-11-22 09:21:57 INFO  Log:23 - Pass : [EW] Element clicked - Located by By.chained({By.xpath: //*[@text='ADD BUTTON']})
+2021-11-22 09:21:57 INFO  Log:23 - The add button is tapped 4 times!!
+2021-11-22 09:21:58 INFO  Log:23 - The button 4 is displayed successfully!!

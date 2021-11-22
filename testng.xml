@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Demo for Mobile Automation(Erste Group)" parallel="tests" thread-count="2">
+    <listeners>
+        <listener class-name="com.demoApp.library.CustomTestNGReporter"/>
+    </listeners>
+
+    <parameter name="takeScreenEvidence" value="${takeScreenEvidence}"/>
+
+    <test name="Samsung Galaxy S20" enabled="true">
+        <parameter name="deviceName" value="RFCN90WF8WB"/>
+        <parameter name="platformName" value="Android"/>
+        <parameter name="platformVersion" value="11.0"></parameter>
+        <parameter name="automationName" value="UiAutomator2"/>
+        <parameter name="featurePath" value="src/test/resources/features"/>
+        <parameter name="tags" value="@apiDemo_layoutreference, @apiDemo_readassets"/>
+        <parameter name="port" value="4753"></parameter>
+        <parameter name="systemPort" value="8220"></parameter>
+        <parameter name="driverClass" value="io.appium.java_client.android.AndroidDriver"/>
+        <classes>
+            <class name="com.demoApp.runner.RunFeaturesSamsungGalaxyS20"/>
+        </classes>
+    </test>
+
+    <test name="Samsung Note Edge" enabled="true">
+        <parameter name="deviceName" value="R58N22HW4PN"/>
+        <parameter name="platformName" value="Android"/>
+        <parameter name="platformVersion" value="11.0"></parameter>
+        <parameter name="automationName" value="UiAutomator2"/>
+        <parameter name="featurePath" value="src/test/resources/features"/>
+        <parameter name="tags" value="@apiDemo_defaultlayoutanimations, @apiDemo_landingscreenvalidation, @apiDemo_preference"/>
+        <parameter name="port" value="4763"></parameter>
+        <parameter name="systemPort" value="8230"></parameter>
+        <parameter name="driverClass" value="io.appium.java_client.android.AndroidDriver"/>
+        <classes>
+            <class name="com.demoApp.runner.RunFeaturesSamsungNoteEdge"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,19 @@
+2021-11-22 09:22:07 INFO  Log:23 - App is launched and user is shown with landing screen successfully!!
+2021-11-22 09:22:07 INFO  Log:23 - App is launched and user is shown with landing screen successfully!!
+2021-11-22 09:22:08 INFO  Log:23 - The icons in the landing screen is verified successfully!!
+2021-11-22 09:22:09 INFO  Log:23 - The icons in the landing screen is verified successfully!!
+2021-11-22 09:22:10 INFO  Log:23 - Info : [EW] Waiting for element - Located by By.chained({By.xpath: //*[@text='Content']})
+2021-11-22 09:22:10 INFO  Log:23 - Pass : [EW] Element found - Located by By.chained({By.xpath: //*[@text='Content']})
+2021-11-22 09:22:11 INFO  Log:23 - Pass : [EW] Element clicked - Located by By.chained({By.xpath: //*[@text='Content']})
+2021-11-22 09:22:11 INFO  Log:23 - User is navigated to Content screen successfully!!
+2021-11-22 09:22:12 INFO  Log:23 - User is successfully landed on Content screen successfully!!
+2021-11-22 09:22:12 INFO  Log:23 - Info : [EW] Waiting for element - Located by By.chained({By.xpath: //*[@text='Assets']})
+2021-11-22 09:22:12 INFO  Log:23 - Pass : [EW] Element found - Located by By.chained({By.xpath: //*[@text='Assets']})
+2021-11-22 09:22:13 INFO  Log:23 - Pass : [EW] Element clicked - Located by By.chained({By.xpath: //*[@text='Assets']})
+2021-11-22 09:22:13 INFO  Log:23 - User is navigated to Assets screen successfully!!
+2021-11-22 09:22:14 INFO  Log:23 - User is successfully landed on Assets screen successfully!!
+2021-11-22 09:22:15 INFO  Log:23 - Info : [EW] Waiting for element - Located by By.chained({By.xpath: //*[@text='Read Asset']})
+2021-11-22 09:22:15 INFO  Log:23 - Pass : [EW] Element found - Located by By.chained({By.xpath: //*[@text='Read Asset']})
+2021-11-22 09:22:16 INFO  Log:23 - Pass : [EW] Element clicked - Located by By.chained({By.xpath: //*[@text='Read Asset']})
+2021-11-22 09:22:16 INFO  Log:23 - User is navigated to Read Asset screen successfully!!
+2021-11-22 09:22:16 INFO  Log:23 - User is successfully landed on Read Asset screen successfully!!
